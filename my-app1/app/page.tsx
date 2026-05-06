@@ -56,7 +56,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Documentation Soạn thảo test
+            Documentation Soạn thảo test ai code rabbit
           </a>
         </div>
       </main>
