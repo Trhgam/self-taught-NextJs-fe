@@ -2,3 +2,5 @@ User-agent: *
 Disallow: /api/
 Disallow: /admin/
 Allow: /
+
+# Sitemap: https://your-future-domain.com/sitemap.xml
